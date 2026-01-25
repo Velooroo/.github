@@ -6,7 +6,7 @@ VeloroLABS creates high-performance tools for IoT, cyberdecks, and distributed s
 
 ## Our Ecosystem
 
-### ⚡ [Spark](https://github.com/Velooroo/Spark) (Open Source)
+### ⚡ [Flare](https://github.com/Velooroo/Flare) (Open Source)
 **The Deployment Agent & CLI**
 A completely free and open-source toolchain to replace Ansible/Docker on edge devices.
 - **Universal:** Works with GitHub, GitLab, and Forge.
